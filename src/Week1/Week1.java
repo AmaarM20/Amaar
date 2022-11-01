@@ -17,7 +17,7 @@ public class Week1
         System.out.println(" by Nicholas Day and Derek Peacock");
         System.out.println();
 
-        String name = InputReader.getString("enter your name >");
+        String name = InputReader.getString("enter your name >amaar");
         System.out.println("Hello " + name);
 
         
